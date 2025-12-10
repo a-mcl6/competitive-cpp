@@ -15,5 +15,10 @@ int main() {
     cin.tie(nullptr);
 
     cout << "Hello, World!" << endl;
+
+    for (int i = 0; i < 10; ++i) {
+        cout << "Number: " << i << endl;
+    }
+    
     return 0;
 }
